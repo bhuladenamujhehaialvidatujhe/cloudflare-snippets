@@ -1,0 +1,3 @@
+name = "cloudflare-snippets"
+compatibility_date = "2026-02-09"
+main = "snippets.js"
